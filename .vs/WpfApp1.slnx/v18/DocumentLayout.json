@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timur\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|c:\\users\\timur\\source\\repos\\wpfapp1\\wpfapp1\\pagedevochkas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pagedevochkas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|c:\\users\\timur\\source\\repos\\wpfapp1\\wpfapp1\\pagecars.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pagecars.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|c:\\users\\timur\\source\\repos\\wpfapp1\\wpfapp1\\pageusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pageusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|c:\\users\\timur\\source\\repos\\wpfapp1\\wpfapp1\\pagedevochkas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pagedevochkas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|c:\\users\\timur\\source\\repos\\wpfapp1\\wpfapp1\\pageusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\pageusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|C:\\Users\\timur\\source\\repos\\WpfApp1\\wpfapp1\\windowdb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\windowdb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|C:\\Users\\timur\\source\\repos\\WpfApp1\\wpfapp1\\windowdb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\windowdb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|C:\\Users\\timur\\source\\repos\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|C:\\Users\\timur\\source\\repos\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EB320-EB78-4217-B227-A0C327CE9000}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageCars.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageCars.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\PageCars.xaml.cs",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageCars.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\PageCars.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:25:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageDevochkas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageDevochkas.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\PageDevochkas.xaml.cs",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageDevochkas.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\PageDevochkas.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwEMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:20:28.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageUsers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageUsers.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\PageUsers.xaml.cs",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageUsers.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\PageUsers.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAArwF8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T08:36:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageDevochkas.xaml",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageDevochkas.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\PageDevochkas.xaml",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageDevochkas.xaml",
+              "RelativeToolTip": "WpfApp1\\PageDevochkas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T09:20:25.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageUsers.xaml",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageUsers.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\PageUsers.xaml",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\PageUsers.xaml",
+              "RelativeToolTip": "WpfApp1\\PageUsers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T08:34:48.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowDB.xaml",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\WindowDB.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\WindowDB.xaml",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\WindowDB.xaml",
+              "RelativeToolTip": "WpfApp1\\WindowDB.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T15:24:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowDB.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\WindowDB.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WindowDB.xaml.cs",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\WindowDB.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\WindowDB.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T18:25:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T14:37:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\timur\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA6wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:37:36.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
